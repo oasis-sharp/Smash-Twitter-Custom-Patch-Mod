@@ -4,19 +4,19 @@ This is an (un)balanced mod created using random twitter suggestions! dont expec
 
 ## CHANGELOG
 
-Ganon -
+Ganon
 - Nair now sends at a downwards angle
 
-Ike -
+Ike
 - Fair reverted to brawl knockback
 - Up air and bair have damage increases
 - Up special now has frame 1 super armour (dont ask)
 
-Kazuya - 
+Kazuya 
 - Frame 3 jumpsquat
 
-Mewtwo - 
+Mewtwo 
 - Shadow ball now spikes
 
-Sonic -
+Sonic
 - Nair now buries grounded opponents
