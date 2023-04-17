@@ -4,7 +4,7 @@ An (un)balanced mod based on random suggestions from smash twitter. dont ask.
 
 # CHANGELOG
 
-
+Written in alphabetical order as I cba to look up roster order by the way
 
 ## Key
 
@@ -15,7 +15,6 @@ An (un)balanced mod based on random suggestions from smash twitter. dont ask.
 
 ## Changes
 
-####  This is written in alphabetical order as I cba to look up roster order by the way
 
 Game and Watch
 - Down tilt now hits aerial opponents (and resultingly opponents on the ledge) [*]
