@@ -1,30 +1,26 @@
-#![feature(proc_macro_hygiene)]
+#![feature(
+    concat_idents,
+    proc_macro_hygiene
+)]
+#![allow(
+    unused_macros,
+    clippy::borrow_interior_mutable_const
+)]
 
-use skyline::{hook, install_hook};
+mod mario;
+mod falco;
+mod ike;
+mod ganon;
+mod mewtwo;
+mod sonic;
 
-extern "C" fn test() -> u32 {
-    2
-}
 
-#[hook(replace = test)]
-fn test_replacement() -> u32 {
-
-    let original_test = original!();
-
-    let val = original_test();
-
-    println!("[override] original value: {}", val); // 2
-
-    val + 1
-}
-
-#[skyline::main(name = "skyline_rs_template")]
+#[skyline::main(name = "smashline_test")]
 pub fn main() {
-    println!("Hello from Skyline Rust Plugin!");
-
-    install_hook!(test_replacement);
-
-    let x = test();
-
-    println!("[main] test returned: {}", x); // 3
+    mario::install();
+    falco::install();
+    ike::install();
+    ganon::install();
+    mewtwo::install();
+    sonic::install();
 }
