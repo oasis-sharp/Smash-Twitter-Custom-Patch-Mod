@@ -11,6 +11,7 @@ Written in alphabetical order as I cba to look up roster order by the way
 - [*] = not showcased on my twitter (this label is mainly for myself)
 - [!] = overtuned change that definately unbalances the character
 - [?] = rekits the move, it could be better or worse as its functionality has fundementally changed
+- [=] = literally just fixxing something not in vanilla
 
 
 ## Changes
@@ -37,4 +38,4 @@ Sonic
 
 Zelda
 - Reworked jab to basically combo into whatever you want [!]
-- Nair buffed (?) I hope to possibly lead into dragdowns?
+- Nair now works like an actual multihit, and has dragdowns [=]
