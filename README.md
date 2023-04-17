@@ -16,8 +16,7 @@ Written in alphabetical order as I cba to look up roster order by the way
 ## Changes
 
 
-Game and Watch
-- Down tilt now hits aerial opponents (and resultingly opponents on the ledge) [*]
+
 
 Ganon
 - Nair now sends at a downwards angle [?]
@@ -35,3 +34,7 @@ Mewtwo
 
 Sonic
 - Nair now buries grounded opponents [!]
+
+Zelda
+- Reworked jab to basically combo into whatever you want [!]
+- Nair buffed (?) I hope to possibly lead into dragdowns?
