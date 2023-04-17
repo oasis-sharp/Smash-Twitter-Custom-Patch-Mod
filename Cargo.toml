@@ -2,7 +2,7 @@
 name = "plugin"
 version = "0.1.0"
 authors = ["Oasis"]
-edition = "2023"
+edition = "2018"
 
 [package.metadata.skyline]
 titleid = "01006A800016E000"
