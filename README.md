@@ -1,17 +1,17 @@
-## ABOUT
+# ABOUT
 
 An (un)balanced mod based on random suggestions from smash twitter. dont ask.
 
-## CHANGELOG
+# CHANGELOG
 
-# Key
+## Key
 
 - [*] = not showcased on my twitter (this label is mainly for myself)
 - [!] = overtuned change that definately unbalances the character
 - [?] = rekits the move, it could be better or worse as its functionality has fundementally changed
 
 
-# Changes
+## Changes
 
 Game and Watch
 - Down tilt now hits aerial opponents (and resultingly opponents on the ledge) [*]
