@@ -1,6 +1,6 @@
 # ABOUT
 
-An (un)balanced mod based on random suggestions from smash twitter. dont ask.
+An (un)balanced mod based on random suggestions from smash twitter. Your main could be fun as hell now. Or a lot worse. Or maybe just completely broken! I'm mainly doing this to familiarise myself with Ultimate modding in case I ever want to do something seriously in the future.
 
 # CHANGELOG
 
