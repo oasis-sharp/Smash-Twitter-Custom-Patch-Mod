@@ -13,7 +13,7 @@ mod ike;
 mod ganon;
 mod mewtwo;
 mod sonic;
-mod gamewatch;
+mod zelda;
 
 
 #[skyline::main(name = "smashline_test")]
@@ -24,5 +24,6 @@ pub fn main() {
     ganon::install();
     mewtwo::install();
     sonic::install();
-    gamewatch::install();
+    zelda::install();
+
 }
